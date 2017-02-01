@@ -1,0 +1,11 @@
+	Comercial Ventas y Reventas
+
+Nombre: juan
+Ciudad: loja
+----------------------------
+Producto	Cantidad	Precio	
+Arroz		2			5,00
+-----------------------
+		Subtotal: 5,00
+		Iva 14: 0,70
+		Total: 5,70
